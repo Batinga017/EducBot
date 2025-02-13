@@ -1,0 +1,9 @@
+google-generativeai
+speechrecognition
+whisper
+pyttsx3
+pydub
+keyboard
+PyQt5
+opencv-python
+numpy
