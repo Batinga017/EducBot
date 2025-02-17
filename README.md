@@ -23,7 +23,7 @@ Certifique-se de ter instalado:
 ### **2. Clonando o Repositório**
 
 ```bash
-git clone https://github.com/seu-repositorio/educbot.git
+git clone https://github.com/Batinga017/EducBot.git
 cd educbot
 ```
 
